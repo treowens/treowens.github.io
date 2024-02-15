@@ -6,21 +6,16 @@
 <tr>
   <td>
 
-- Advanced SQL
-- Business Intelligence
-- Data Analysis
-- Data Visualization
-- Quantitative Analysis
-- Client Consultation
+Advanced SQL | Business Intelligence
+Data Analysis | Data Visualization
+Quantitative Analysis | Client Consultation
 
   </td>
   <td>
 
-- Data Wrangling
-- A/B Testing
-- Agile Experience
-- Process Modeling
-- CRM Experience
+Data Wrangling | A/B Testing
+Agile Experience | Process Modeling
+CRM Experience
 
   </td>
 </tr>
