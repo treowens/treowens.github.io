@@ -3,25 +3,26 @@
 <table>
 <tr>
   <td>
-
-- Advanced SQL
-- Business Intelligence
-- Data Analysis
-
+Advanced SQL
+Business Intelligence
+Data Analysis
   </td>
+  
   <td>
-- Data Visualization
-- Quantitative Analysis
-- Client Consultation
+Data Visualization
+Quantitative Analysis
+Client Consultation
   </td>
+  
   <td>
-- Data Wrangling
-- A/B Testing
-- Agile Experience
+Data Wrangling
+A/B Testing
+Agile Experience
   </td>
-    <td>
-- Process Modeling
-- CRM Experience
+  
+  <td>
+Process Modeling
+CRM Experience
   </td>
 </tr>
 </table>
@@ -30,25 +31,23 @@
 <table>
 <tr>
   <td>
-
-- SQL
-- Tableau
-
+    SQL<br>
+    Tableau
   </td>
   
   <td>
-- Power BI
-- Snowflake
+    Power BI<br>
+    Snowflake
   </td>
   
   <td>
-- Looker
-- LookML
+    Looker<br>
+    LookML
   </td>
   
-    <td>
-- Excel
-- Python
+  <td>
+Excel<br>
+Python
   </td>
 </tr>
 </table>
