@@ -1,7 +1,31 @@
 # Business Intelligence Analyst
 
-#### Technical Skills: 
-Advanced SQL, Business Intelligence, Data Analysis, Data Visualization, Quantitative Analysis, Client Consultation, Data Wrangling A/B Testing, Agile Experience, Process Modeling, CRM Experience
+<h4 align="center">Technical Skills:</h4>
+
+<table>
+<tr>
+  <td>
+
+- Advanced SQL
+- Business Intelligence
+- Data Analysis
+- Data Visualization
+- Quantitative Analysis
+- Client Consultation
+
+  </td>
+  <td>
+
+- Data Wrangling
+- A/B Testing
+- Agile Experience
+- Process Modeling
+- CRM Experience
+
+  </td>
+</tr>
+</table>
+
 
 ## Work Experience
 **Business Intelligence Consultant @ hc1 (_Mar 2022 - Feb 2024_)**
