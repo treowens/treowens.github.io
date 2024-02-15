@@ -3,10 +3,6 @@
 #### Technical Skills: 
 Advanced SQL, Business Intelligence, Data Analysis, Data Visualization, Quantitative Analysis, Client Consultation, Data Wrangling A/B Testing, Agile Experience, Process Modeling, CRM Experience
 
-
-## Education	        		
-- B.S., Data Management / Data Analytics | Western Governors University
-
 ## Work Experience
 **Business Intelligence Consultant @ hc1 (_Mar 2022 - Feb 2024_)**
 - Enhanced end-user efficiency by designing and validating high-impactcustom dashboards with actionable insights.
@@ -28,6 +24,9 @@ Advanced SQL, Business Intelligence, Data Analysis, Data Visualization, Quantita
 - Ensured efficient communication and collaboration between internal and external stakeholders by building relationships with key partners.
 - Analyzed dispensing and visitation data across 40+ clinics to create optimized inventory models, automating reordering processes and freeing medical staff to focus on patient care.
 - Identified cost-saving opportunities and higher-value medication alternatives in detailed analysis of Pharmacy Benefits Manager data, leading to annual savings in the hundreds of thousands
+
+## Education	        		
+- B.S., Data Management / Data Analytics | Western Governors University
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
