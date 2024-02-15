@@ -2,25 +2,11 @@
 
 <h4 align="center">Technical Skills:</h4>
 
-<table>
-<tr>
-  <td>
+<p align="center">Advanced SQL | Business Intelligence | Data Analysis | Data Visualization | Quantitative Analysis | Client Consultation | Data Wrangling | A/B Testing | Agile Experience | Process Modeling | CRM Experience</p>
 
-Advanced SQL | Business Intelligence
-Data Analysis | Data Visualization
-Quantitative Analysis | Client Consultation
+<h4 align="center">Tools:</h4>
 
-  </td>
-  <td>
-
-Data Wrangling | A/B Testing
-Agile Experience | Process Modeling
-CRM Experience
-
-  </td>
-</tr>
-</table>
-
+<p align="center">SQL | Tableau | Power BI | Snowflake | Looker | LookML | Excel | Python | GitHub</p></center>
 
 ## Work Experience
 **Business Intelligence Consultant @ hc1 (_Mar 2022 - Feb 2024_)**
