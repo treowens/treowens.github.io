@@ -5,22 +5,19 @@
   <td>
 Advanced SQL<br>
 Business Intelligence<br>
-Data Analysis
+Data Analysis<br>
+Data Visualization
   </td>
   
   <td>
-Data Visualization<br>
 Quantitative Analysis<br>
-Client Consultation
-  </td>
-  
-  <td>
+Client Consultation<br>
 Data Wrangling<br>
 A/B Testing<br>
-Agile Experience
   </td>
   
   <td>
+Agile Experience<br>
 Process Modeling<br>
 CRM Experience
   </td>
@@ -32,22 +29,20 @@ CRM Experience
 <tr>
   <td>
     SQL<br>
-    Tableau
+    Tableau<br>
+    Power BI
   </td>
   
   <td>
-    Power BI<br>
-    Snowflake
-  </td>
-  
-  <td>
+    Snowflake<br>
     Looker<br>
     LookML
   </td>
   
   <td>
-Excel<br>
-Python
+    Excel<br>
+    Python<br>
+    GitHUb
   </td>
 </tr>
 </table>
