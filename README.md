@@ -1,4 +1,4 @@
-# Business Intelligence Analyst
+# Business Intelligence Analyst 
 
 #### Technical Skills: Advanced SQL, Business Intelligence, Data Analysis, Data Visualization, Quantitative Analysis, Client Consultation, Data Wrangling A/B Testing, Agile Experience, Process Modeling, CRM Experience
 
