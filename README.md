@@ -1,4 +1,57 @@
 # Business Intelligence Analyst
+<h4 align="left">Technical Skills:</h4>
+<table>
+<tr>
+  <td>
+
+- Advanced SQL
+- Business Intelligence
+- Data Analysis
+
+  </td>
+  <td>
+- Data Visualization
+- Quantitative Analysis
+- Client Consultation
+  </td>
+  <td>
+- Data Wrangling
+- A/B Testing
+- Agile Experience
+  </td>
+    <td>
+- Process Modeling
+- CRM Experience
+  </td>
+</tr>
+</table>
+
+<h4 align="left">Tools:</h4>
+<table>
+<tr>
+  <td>
+
+- SQL
+- Tableau
+
+  </td>
+  
+  <td>
+- Power BI
+- Snowflake
+  </td>
+  
+  <td>
+- Looker
+- LookML
+  </td>
+  
+    <td>
+- Excel
+- Python
+  </td>
+</tr>
+</table>
 
 ### Technical Skills:
 <p align="left">Advanced SQL | Business Intelligence | Data Analysis | Data Visualization | Quantitative Analysis | Client Consultation | Data Wrangling | A/B Testing | Agile Experience | Process Modeling | CRM Experience</p>
