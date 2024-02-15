@@ -3,25 +3,25 @@
 <table>
 <tr>
   <td>
-Advanced SQL
-Business Intelligence
+Advanced SQL<br>
+Business Intelligence<br>
 Data Analysis
   </td>
   
   <td>
-Data Visualization
-Quantitative Analysis
+Data Visualization<br>
+Quantitative Analysis<br>
 Client Consultation
   </td>
   
   <td>
-Data Wrangling
-A/B Testing
+Data Wrangling<br>
+A/B Testing<br>
 Agile Experience
   </td>
   
   <td>
-Process Modeling
+Process Modeling<br>
 CRM Experience
   </td>
 </tr>
