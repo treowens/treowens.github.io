@@ -1,6 +1,7 @@
 # Business Intelligence Analyst
 
-#### Technical Skills: Advanced SQL, Business Intelligence, Data Analysis, Data Visualization, Quantitative Analysis, Client Consultation, Data Wrangling A/B Testing, Agile Experience, Process Modeling, CRM Experience
+#### Technical Skills: 
+Advanced SQL, Business Intelligence, Data Analysis, Data Visualization, Quantitative Analysis, Client Consultation, Data Wrangling A/B Testing, Agile Experience, Process Modeling, CRM Experience
 
 
 ## Education	        		
@@ -18,9 +19,15 @@
 - Led the successful migration of three top-revenue clients from outdated analytics tools to Google's Looker platform.
 - Achieved 100% retention over two years as the data steward and advisor for eleven clients.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Clinical Data Analyst @ Young at Heart Pharmacy - Distribution Division (_May 2015 - Mar 2022_)**
+- Utilized data insights to identify and solve complex clinical problems, increasing patient satisfaction and cost savings.
+- Increased executive leadership's ability to make informed decisions by developing tables, views, and dashboards using advanced SQL functions and datasets from disparate sources.
+- Boosted data literacy for non-technical stakeholders by designing visually appealing dashboards with Tableau, Power BI, and Excel.
+- Increased profits by analyzing medication sourcing costs and client ordering trends to develop optimal pricing strategies. Assisted CFO in quarterly financial reporting
+- Introduced an Inventory Management dashboard, slashing inventory costs by over 50% and reducing manual processes through real-time tracking and automated ordering recommendations.
+- Ensured efficient communication and collaboration between internal and external stakeholders by building relationships with key partners.
+- Analyzed dispensing and visitation data across 40+ clinics to create optimized inventory models, automating reordering processes and freeing medical staff to focus on patient care.
+- Identified cost-saving opportunities and higher-value medication alternatives in detailed analysis of Pharmacy Benefits Manager data, leading to annual savings in the hundreds of thousands
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
